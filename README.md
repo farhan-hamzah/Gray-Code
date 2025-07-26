@@ -1,0 +1,2 @@
+# Gray-Code
+An n-bit gray code sequence is a sequence of 2n integers where:
